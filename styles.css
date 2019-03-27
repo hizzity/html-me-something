@@ -1,0 +1,81 @@
+
+p {
+    font-family: "Trebuchet MS", Helvetica, monospace;
+    color: 000033;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 5em;
+  }
+
+header h2 {
+    text-align: center;
+    font-size: 3em;
+    }
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+a:link {
+    color: rgb(43, 73, 43);
+}
+
+a:visited {
+    color: rgb(25, 14, 36);
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+    font-size: 2em;
+    color: 666633;
+}
+
+#country_names {
+    font-style: italic;
+}
+
+.picture {
+    padding: 700xp;
+}
+
+section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 1.25em;
+}
+
+div {
+    padding-left: 8000xp;
+}
+
+h1 {
+    color: 666633;
+  }
+
+body {
+    background-image: url("images/europe.jpg");
+}
+
+img {
+    border-radius: 10px;
+  }
+
+img {
+    width:800px;
+    height:600px;
+  }
+figcaption {
+    font-size: 1.5em;
+}
+
+nav {
+    text-align: center
+}
