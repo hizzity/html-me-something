@@ -1,19 +1,23 @@
 
 p {
     font-family: "Trebuchet MS", Helvetica, monospace;
-    color: 000033;
+    color: rgb(9, 11, 12);
     text-align: center;
     font-size: 1.5em;
 }
 
+
+
 header h1 {
     text-align: center;
     font-size: 5em;
+    color: rgb(45, 98, 119);
   }
 
 header h2 {
     text-align: center;
     font-size: 3em;
+    color: 
     }
 
 nav ul {
@@ -22,7 +26,7 @@ nav ul {
 }
 
 a:link {
-    color: rgb(43, 73, 43);
+    color: rgb(112, 101, 81);
 }
 
 a:visited {
@@ -41,8 +45,21 @@ nav ul li {
 }
 
 .picture {
-    padding: 700xp;
+    padding: 0 0 0 14em;
 }
+
+article {
+    border: 3px solid rgb(13, 14, 15);
+    background-color: rgb(250, 249, 248);
+    padding-top: .001mm;
+    padding-right: .001px;
+    padding-bottom: .001px;
+    padding-left: .001px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
 
 section {
     margin-top: 100px;
@@ -56,9 +73,8 @@ div {
     padding-left: 8000xp;
 }
 
-h1 {
-    color: 666633;
-  }
+
+
 
 body {
     background-image: url("images/europe.jpg");
@@ -72,6 +88,7 @@ img {
     width:800px;
     height:600px;
   }
+
 figcaption {
     font-size: 1.5em;
 }
@@ -79,3 +96,4 @@ figcaption {
 nav {
     text-align: center
 }
+
